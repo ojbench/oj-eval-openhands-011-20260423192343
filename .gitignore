@@ -1,0 +1,4 @@
+data/*/test
+data/*/output.txt
+*.o
+*.out
